@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "userId": "alice01",
+    "email": "alice@example.com",
+    "password": "$2b$10$abcdefg1234567890hashedPassword1",
+    "createdAt": "2024-04-01T12:00:00.000Z",
+    "updatedAt": "2024-04-01T12:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "userId": "bob99",
+    "email": "bob@example.com",
+    "password": "$2b$10$hijklmn9876543210hashedPassword2",
+    "createdAt": "2024-04-02T08:30:00.000Z",
+    "updatedAt": "2024-04-02T08:30:00.000Z"
+  },
+  {
+    "id": 3,
+    "userId": "charlie_dev",
+    "email": "charlie@example.com",
+    "password": "$2b$10$opqrstu1234567890hashedPassword3",
+    "createdAt": "2024-04-03T15:45:00.000Z",
+    "updatedAt": "2024-04-03T15:45:00.000Z"
+  },
+  {
+    "id": 4,
+    "userId": "inbrew",
+    "email": "insu@1234.com",
+    "password": "1234",
+    "createdAt": "2025-04-15T06:13:59.724Z",
+    "updatedAt": "2025-04-15T06:13:59.725Z"
+  },
+  {
+    "id": 5,
+    "userId": "inbrew",
+    "email": "insu@1234.com",
+    "password": "1234",
+    "createdAt": "2025-04-15T13:41:31.744Z",
+    "updatedAt": "2025-04-15T13:41:31.744Z"
+  }
+]
