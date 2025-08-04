@@ -1,7 +1,7 @@
 {
   "name": "hardhat-project",
   "scripts": {
-    "deploy": "npx hardhat run scripts/deploy.ts --network kairos",
+    "deploy": "npx hardhat run scripts/deploy.ts --network sepolia",
     "test": "npx hardhat test"
   },
   "devDependencies": {
